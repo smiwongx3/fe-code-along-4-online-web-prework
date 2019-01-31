@@ -71,10 +71,10 @@ figcaption {
   color: red;
 }
 
-/*///////// LAYOUT ///////*/
+/*////////// LAYOUT //////////*/
 
 .wrapper {
   width: 960px; 
   margin: 0 auto;
-  background: #000;
+  background: #eee;
 }
