@@ -92,5 +92,5 @@ figcaption {
 }
  
 .col-3 {
-  /* this column will span all the entire wrapper */
+  background: #ccc;
 }
